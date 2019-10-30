@@ -1,0 +1,9 @@
+.normal{
+    color: blue;
+}
+.active{
+    color: brown;
+}
+.link{
+    padding: 0 5px;
+}
